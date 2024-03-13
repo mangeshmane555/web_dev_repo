@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+}
+.card
+{
+    width: 60%;
+    margin: auto;
+}
+
+.field
+{
+    width: 60%;
+}
+.spinners
+{
+    margin: auto;
+}
